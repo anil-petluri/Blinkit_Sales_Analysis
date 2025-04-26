@@ -15,11 +15,13 @@ To conduct a comprehensive analysis of Blinkit's sales data and extract actionab
 **Data Analysis:** Using KPIs and visual storytelling for business insights
 
 🧹 **Data Cleaning**
+
 Standardized inconsistent entries in the Item_Fat_Content field (LF, low fat, reg) to uniform values (Low Fat, Regular).
 
 Created summarized backup tables for efficient analysis by outlet and fat content type.
 
 🔑 **Key KPIs**
+
 **Total Sales:** Sum of all item sales
 
 **Average Sales:** Average revenue per sale
@@ -29,6 +31,7 @@ Created summarized backup tables for efficient analysis by outlet and fat conten
 **Average Rating:** Mean customer rating across products
 
 🔍 **Detailed Analysis Areas**
+
 **Total Sales by Fat Content:** Understand the impact of product fat content on sales.
 
 **Total Sales by Item Type:** Identify top-performing product categories.
@@ -38,6 +41,7 @@ Created summarized backup tables for efficient analysis by outlet and fat conten
 **Sales by Outlet Establishment Year:** Examine how outlet age impacts sales.
 
 📊 **Charts and Visual Insights**
+
 **Percentage of Sales by Outlet Size:** Correlation between outlet size and sales contribution.
 
 **Sales Distribution by Outlet Location:** Regional analysis of sales performance.
@@ -45,6 +49,7 @@ Created summarized backup tables for efficient analysis by outlet and fat conten
 **All Metrics by Outlet Type:** A consolidated view across different outlet formats.
 
 🚀 **Key Takeaways**
+
 Cleaning and modeling data is critical for meaningful analysis.
 
 Granular segmentation (by item type, outlet size, fat content) offers deeper insights.
