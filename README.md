@@ -1,8 +1,8 @@
 📊 **Blinkit Sales Analysis Project**
-This project presents a complete sales analysis for Blinkit, focused on improving insights into performance, customer satisfaction, and inventory management. The analysis was conducted using Power BI and structured through SQL-driven data preparation.
 
 ![image](https://github.com/user-attachments/assets/4cf7e265-e29d-460c-aae1-cfed2e4fc4c6)
 
+**Overview:** This project presents a complete sales analysis for Blinkit, focused on improving insights into performance, customer satisfaction, and inventory management. The analysis was conducted using Power BI and structured through SQL-driven data preparation.
 📈 **Project Objective**
 To conduct a comprehensive analysis of Blinkit's sales data and extract actionable insights by building interactive dashboards and using KPIs to optimize business performance.
 
