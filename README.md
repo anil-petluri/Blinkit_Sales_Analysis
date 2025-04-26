@@ -7,6 +7,7 @@
 To conduct a comprehensive analysis of Blinkit's sales data and extract actionable insights by building interactive dashboards and using KPIs to optimize business performance.
 
 🛠 **Tools and Technologies**
+
 **SQL:** Data cleaning and preparation
 
 **Power BI:** Data modeling, visualization, and dashboard creation
